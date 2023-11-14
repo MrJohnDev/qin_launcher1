@@ -2,7 +2,7 @@
 
 ### Download
 
-[Releases](./releases/latest)
+[Releases](https://github.com/MrJohnDev/qin_launcher1/releases/latest)
 
 ### Screenshots
 
