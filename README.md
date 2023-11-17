@@ -1,5 +1,7 @@
 # QIN Launcher1
 
+Launcher for Qin Phones
+
 ### Download
 
 [Releases](https://github.com/MrJohnDev/qin_launcher1/releases/latest)
