@@ -14,3 +14,11 @@ Launcher for Qin Phones
 
 Long Press `2` in menu for All Apps List  
 Long Press `9` in menu for User Apps List
+
+
+Donate me:
+
+USDT TRC-20
+
+TZBos7QDr3mnwgGAy6zFNJxNn3csRoSzEp
+
