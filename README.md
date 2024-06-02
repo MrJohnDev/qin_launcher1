@@ -1,6 +1,8 @@
-# QIN Launcher1 (Langs: En, Ru, Vi)
+# QIN Launcher1
 
 Launcher for Qin Phones
+
+Languages: En, Ru, Vi
 
 ### Download
 
