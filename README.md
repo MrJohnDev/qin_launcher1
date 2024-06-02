@@ -1,4 +1,4 @@
-# QIN Launcher1
+# QIN Launcher1 (Langs: En, Ru, Vi)
 
 Launcher for Qin Phones
 
