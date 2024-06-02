@@ -20,7 +20,9 @@ Long Press `9` in menu for User Apps List
 
 Donate me:
 
-USDT TRC-20
+USDT (TRC-20):
+`TZBos7QDr3mnwgGAy6zFNJxNn3csRoSzEp`
 
-TZBos7QDr3mnwgGAy6zFNJxNn3csRoSzEp
+BNB (BEP20):
+`0xD20B5bA12A3e977eeE2D6A4c189f34c8f75e2d76`
 
